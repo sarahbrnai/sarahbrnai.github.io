@@ -1,6 +1,6 @@
 
 # Sarah Borni
-![Sarah](assets/Profile.jpg)
+![Sarah](assets/Profile.png)
 ## About Me
 
 I am a PhD student in [Prof. Ron Diskin's laboratory](https://www.weizmann.ac.il/csb/diskin/welcome-letter) at the Weizmann Institute of Science.
