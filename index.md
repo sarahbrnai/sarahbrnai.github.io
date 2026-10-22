@@ -1,12 +1,11 @@
 
-## Sarah Borni
 
-<div style="display: flex; align-items: center; gap: 12px;">
-  <img src="assets/Profile.png" alt="Sarah" style="width: 65px; height: 65px; border-radius: 50%; object-fit: cover;">
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 20px;">
+  <img src="assets/Profile.png" alt="Sarah" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
+
   <div>
     <h1 style="margin: 0;">Sarah Borni</h1>
     <p style="margin: 4px 0;">PhD Student in Structural Biology</p>
-    <p style="margin: 4px 0;">Weizmann Institute of Science</p>
   </div>
 </div>
 
