@@ -1,8 +1,6 @@
 
 # Sarah Borni
-
-<div class="profile-header">
-  <img src="/assets/images/Profile.png" >
+![Sarah](assets/Profile.png)
 
 
 ## About Me
