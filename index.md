@@ -15,10 +15,15 @@
 I am a PhD student in [Prof. Ron Diskin's laboratory](https://www.weizmann.ac.il/csb/diskin/welcome-letter) at the Weizmann Institute of Science.
 I completed my B.Sc. in Chemistry and Biology at the Hebrew University of Jerusalem. I then pursued my M.Sc. in Structural Biology in the same lab where I am currently pursuing my Ph.D.
 
-## 🔬My Research
+## 🧬My Research
 
 My scientific interests include structural biology, virology, cryo-electron microscopy (cryo-EM), and the development of strategies to understand and prevent viral infections.
 My research focuses on the structure and function of viral proteins, with a particular interest in the Lujo virus spike protein.
+
+## 🔬Laboratory skills
+- **Molecular biology:** Cloning, Mutagenesis, Transformation, DNA and Protein purification, Northern and Western blot, AKTA, Plaque assay, ELISA.
+- **Tissue culture:** Adherent and suspension mammalian cells maintenance, Transfection, Neutralization assay, FACS. 
+- **Cryo-EM:** Talos and Krios.
 
 
 ## 🌍A Different Kind of Discovery
