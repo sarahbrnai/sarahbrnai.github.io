@@ -34,5 +34,5 @@ When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting the
 ## 📬Contact Me
 Feel free to reach out if you’d like to discuss science, I’d be happy to connect!
 
-**Email:** sarah.borni@weizmann.ac.il
+**Email:** [sarah.borni@weizmann.ac.il](sarah.borni@weizmann.ac.il)
 
