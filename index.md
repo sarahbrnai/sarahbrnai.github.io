@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Home
----
-
 # Sarah Borni
 
 ## About Me
