@@ -1,7 +1,7 @@
 
 
 <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 20px;">
-  <img src="assets/Profile.png" alt="Sarah" style="width: 60px; height: 60px; border-radius: 50%; object-fit: cover;">
+  <img src="assets/Profile.png" alt="Sarah" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 
   <div>
     <h1 style="margin: 0;">Sarah Borni</h1>
