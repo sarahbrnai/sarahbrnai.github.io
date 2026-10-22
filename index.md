@@ -1,6 +1,10 @@
 
 # Sarah Borni
-![Sarah](assets/Profile.png)
+
+<div class="profile-header">
+  <img src="/assets/images/Profile.png" >
+
+
 ## About Me
 
 I am a PhD student in [Prof. Ron Diskin's laboratory](https://www.weizmann.ac.il/csb/diskin/welcome-letter) at the Weizmann Institute of Science.
@@ -14,6 +18,7 @@ My research focuses on the structure and function of viral proteins, with a part
 
 ## A Different Kind of Discovery
 ![Hobbies](assets/Hobbies.png)
+
 When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting theaters and museums.
 
 ## Contact Me
