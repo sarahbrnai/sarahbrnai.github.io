@@ -22,7 +22,8 @@ My research focuses on the structure and function of viral proteins, with a part
 
 
 ## 🌍A Different Kind of Discovery
-![Hobbies](assets/Hobbies.png)
+<div style="display: flex; align-items: center; gap: 12px; margin-bottom: 20px;">
+  <img src="assets/Hobbies.png" alt="Sarah" style="width: 300px; height: 300px; border-radius: 50%; object-fit: cover;">
 
 When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting theaters and museums.
 
