@@ -8,6 +8,24 @@ Profile.png {
   flex-shrink: 0;
 }
 
+/* background */
 body {
-  background-color: #F5F8FC;
+  background-color: #F8FAFD;
+  background-image:
+    radial-gradient(
+      circle at 10% 10%,
+      rgba(173, 205, 240, 0.25) 0,
+      transparent 28%
+    ),
+    radial-gradient(
+      circle at 90% 35%,
+      rgba(211, 198, 245, 0.22) 0,
+      transparent 30%
+    ),
+    radial-gradient(
+      circle at 45% 95%,
+      rgba(190, 224, 220, 0.20) 0,
+      transparent 30%
+    );
+  background-attachment: fixed;
 }
