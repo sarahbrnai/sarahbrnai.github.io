@@ -29,7 +29,7 @@ My research focuses on the structure and function of viral proteins, with a part
 ## 🌍A Different Kind of Discovery
 <img src="assets/Hobbies.png" alt="My hobbies" style="width: 200px; height: 200px; object-fit: cover;">
 
-When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting theaters and museums.
+When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting theaters and museums!
 
 ## 📬Contact Me
 Feel free to reach out if you’d like to discuss science, I’d be happy to connect!
