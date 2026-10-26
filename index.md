@@ -32,7 +32,7 @@ My research focuses on the structure and function of viral proteins, with a part
 When I’m not in the lab, I enjoy traveling, hiking, climbing, and visiting theaters and museums!
 
 ## 📬Contact Me
-Feel free to reach out if you’d like to discuss science, I’d be happy to connect!
+Feel free to reach out if you’d like to discuss science, I’d be happy to connect:
 
 **Email:** [sarah.borni@weizmann.ac.il](sarah.borni@weizmann.ac.il)
 
