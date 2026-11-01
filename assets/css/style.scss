@@ -3,24 +3,28 @@
 
 @import "{{ site.theme }}";
 
-/* Main headings */
-section h1 {
+
+/* Main website styling */
+
+body {
+  background-color: #F5F8FC !important;
+}
+
+h1 {
   text-align: center !important;
-  font-size: 38px !important;
+  font-size: 42px !important;
   font-weight: 700 !important;
   color: #243B53 !important;
 }
 
-/* Section headings */
-section h2 {
+h2 {
   text-align: center !important;
-  font-size: 28px !important;
+  font-size: 30px !important;
   font-weight: 600 !important;
   color: #4778A8 !important;
 }
 
-/* Paragraphs */
-section p {
+p {
   font-size: 17px !important;
   line-height: 1.8 !important;
 }
