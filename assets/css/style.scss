@@ -1,1 +1,26 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Main headings */
+section h1 {
+  text-align: center !important;
+  font-size: 38px !important;
+  font-weight: 700 !important;
+  color: #243B53 !important;
+}
+
+/* Section headings */
+section h2 {
+  text-align: center !important;
+  font-size: 28px !important;
+  font-weight: 600 !important;
+  color: #4778A8 !important;
+}
+
+/* Paragraphs */
+section p {
+  font-size: 17px !important;
+  line-height: 1.8 !important;
+}
